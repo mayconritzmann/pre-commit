@@ -1,0 +1,6 @@
+pre-commit 4.5.1
+helm 3.15.3
+helm-docs 1.14.2
+terraform 1.7.5
+terragrunt 0.45.0
+shellcheck 0.7.1
