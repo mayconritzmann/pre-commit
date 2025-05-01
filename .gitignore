@@ -1,0 +1,13 @@
+# Ignore everything
+/*
+
+# Allow files and folders with a pattern starting with !
+!.github
+!*.md
+!*.yaml
+!*.yml
+!CODEOWNERS
+!Dockerfile
+!hack
+!Makefile
+!.tool-versions
